@@ -2,7 +2,6 @@ Vivek Chavan is a Frontend focused Fullstack (MERN) developer. He is proficient 
 
 He has more than 2 years of experience helping startups build and launch their products in the market.
 
-He also likes mentoring people and helps them in the field of software development. He is a Mentor at one of the world's best edTech platforms Udacity.
 
 At Udacity, he utilizes his specialized knowledge in the field of Front End web development, React, Javascript, etc., and his strong technical and communication skills to provide code reviews and other student support services.
 
