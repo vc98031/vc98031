@@ -1,10 +1,16 @@
-Vivek Chavan is a Frontend focused Fullstack (MERN) developer. He is proficient in working with React + Redux along with other UI libraries.
+Hi there! I'm Vivek Chavan 👋 
 
-He has more than 2 years of experience helping startups build and launch their products in the market.
+I'm a Frontend-focused Fullstack (MERN) developer with a strong passion for creating dynamic and user-friendly web applications. I specialize in working with React and Redux, along with various other UI libraries to deliver seamless user experiences.
 
+🎓 Education
+Master of Computer Applications from Sinhgad Institute of Business Administration and Research with a CGPA of 7.76 (2021-2023).
+Bachelor of Computer Applications from Sangola College Sangola with a CGPA of 9.58 (2018-2021).
 
-At Udacity, he utilizes his specialized knowledge in the field of Front End web development, React, Javascript, etc., and his strong technical and communication skills to provide code reviews and other student support services.
-
+💼 Skills
+Frontend: React, Redux, HTML, CSS, JavaScript, UI Libraries
+Backend: Node.js, Express.js
+Database: MongoDB
+Others: RESTful APIs, Git, Docker, Agile Methodologies
 <details>
   <summary>Skills (Click to view)</summary>
 
